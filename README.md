@@ -1,5 +1,5 @@
 # RTreeStar
-R*-tree realization in STL-style
+R-tree star C++ implementation in container-style
 
 MathRTreeStar.h - consists template of container using R*-tree algorithm
 MathMBR.h - consists template of class declaring MBR (minimal boundary rectangle)
